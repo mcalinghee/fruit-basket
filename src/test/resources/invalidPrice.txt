@@ -1,0 +1,5 @@
+Banana, 2.3
+Apple, 3.40
+Lemon, 6.50c
+Peach, 3.40
+Orange, 2

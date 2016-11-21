@@ -1,0 +1,6 @@
+Banana, 2.3
+Apple, 3.40
+Lemon, 6.50
+Watch, 106.99
+Peach, 3.40
+Orange, 2

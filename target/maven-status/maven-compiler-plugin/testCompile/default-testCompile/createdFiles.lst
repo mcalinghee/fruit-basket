@@ -1,0 +1,5 @@
+com/nuvelvision/service/component/BasketFactoryTest.class
+com/nuvelvision/startup/BootstrapTest.class
+com/nuvelvision/service/BasketServiceTest.class
+com/nuvelvision/service/component/ForkJoinAggregatorStrategyTest.class
+com/nuvelvision/service/component/SimpleAggregatorStrategyTest.class

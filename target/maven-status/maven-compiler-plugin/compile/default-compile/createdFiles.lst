@@ -1,0 +1,10 @@
+com/nuvelvision/domain/Basket.class
+com/nuvelvision/service/component/ForkJoinAggregatorStrategy.class
+com/nuvelvision/startup/Bootstrap.class
+com/nuvelvision/service/BasketService.class
+com/nuvelvision/service/component/BasketFactory.class
+com/nuvelvision/service/component/SimpleAggregatorStrategy.class
+com/nuvelvision/domain/FruitType.class
+com/nuvelvision/domain/Fruit.class
+com/nuvelvision/service/component/AggregatorStrategy.class
+com/nuvelvision/service/component/ForkJoinAggregatorTask.class
